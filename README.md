@@ -16,11 +16,12 @@ Criado por Amarildo Miguel, em co-autoria com a IAMI.
 
 | Ferramenta | O que faz | Altera dados? |
 |---|---|---|
+| `ver-minha-conta` | A tua conta: id do jogador, equipas e plano | Não |
 | `listar-modalidades-e-formatos` | Variantes de futebol e formatos de competição | Não |
 | `listar-campeonatos` | Campeonatos que geres | Não |
 | `ver-campeonato` | Inscrições, classificação, jogos e resultados | Não |
 | `ver-planos` | Plano actual e limites | Não |
-| `ver-perfil-jogador` | Perfil público de um jogador | Não |
+| `ver-perfil-jogador` | Perfil de um jogador (sem id, o teu) | Não |
 | `texto-partilha` | Texto e ligação wa.me para o WhatsApp | Não |
 | `criar-campeonato` | Cria um campeonato em rascunho | Sim |
 | `decidir-inscricao` | Aprova ou rejeita a inscrição de uma equipa | Sim |

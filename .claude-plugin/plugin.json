@@ -1,7 +1,7 @@
 {
   "name": "peladeiros",
   "displayName": "Peladeiros",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Organiza campeonatos de futebol em Angola com o Peladeiros: cria o campeonato, aprova inscrições, gera o calendário, lança resultados e partilha a classificação no WhatsApp.",
   "author": {
     "name": "Amarildo Miguel",
