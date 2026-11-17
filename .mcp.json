@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "peladeiros": {
+      "type": "http",
+      "url": "https://peladeiros.ao/mcp"
+    }
+  }
+}

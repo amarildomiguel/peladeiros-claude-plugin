@@ -1,0 +1,15 @@
+{
+  "name": "peladeiros",
+  "displayName": "Peladeiros",
+  "version": "1.0.0",
+  "description": "Organiza campeonatos de futebol em Angola com o Peladeiros: cria o campeonato, aprova inscrições, gera o calendário, lança resultados e partilha a classificação no WhatsApp.",
+  "author": {
+    "name": "Amarildo Miguel",
+    "email": "amarildomgl@gmail.com",
+    "url": "https://peladeiros.ao"
+  },
+  "homepage": "https://peladeiros.ao/agentes-ia",
+  "repository": "https://github.com/amarildomiguel/peladeiros-claude-plugin",
+  "license": "MIT",
+  "keywords": ["futebol", "futsal", "futebol de praia", "campeonato", "torneio", "angola"]
+}
